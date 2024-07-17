@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.slouths.tutorialmod.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
